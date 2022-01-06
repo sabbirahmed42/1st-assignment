@@ -75,3 +75,27 @@ border-radius: 5px;
     background-position-y: 150px;
     background-position-x: 20px;
 }
+#img-big2{
+    width: 400px;
+}
+.background-img{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: 93% 93%;
+}
+.orange-color{
+    color: orange;
+    font-size: 40px;
+}
+footer{
+      background-color: skyblue;
+      padding-top: 0.5%;
+      padding-bottom: 0.5%;
+      margin-bottom: 0.5%;
+  }  
+.font{
+      font-size: large;
+      ;
+  }
+}
